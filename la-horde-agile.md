@@ -28,8 +28,8 @@ Durant mes réflexions à mes collègues, camarades et amis j'ai du me mettre à
 
 ![Les temps complexes](illustrations/temps-complexes.png)
 
-
 \pagebreak
+
 
 Histoire de la horde agile
 ==========================
@@ -418,17 +418,15 @@ On passerait selon lui (et j'aime le croire) à une économie de masses à une �
 
 C'est le moment du grand croisement. Nous serions à l'aube d'une nouvelle civilisation^[C'est aussi l'intuition de jean-François Zobrist dans cette belle conférence.http://www.youtube.com/watch?v=XCHUhyu9Tt0&html5=1]. 
 
-
-
 Deuxième conclusion
 ----------------------
 
-Nous entrons dans une phase nouvelle. Pleine de bonnes suprises : c'est le plaisir, la joie, la responsabilisation, la collaboration, l'auto-organisation, l'intuition qui sont ou seront à l'origine de la performance, de notre accomplissement (laissez moi y croire bon sang!). 
+Nous entrons dans une phase nouvelle. Pleine de bonnes surprises : c'est le plaisir, la joie, la responsabilisation, la collaboration, l'auto-organisation, l'intuition qui sont ou seront à l'origine de la performance, de notre accomplissement (laissez moi y croire bon sang!). 
 Et donc, la crise en cours c'est juste le basculement vers ce monde différent où la collaboration et l'immatériel vont dominer. A nouveau pour le premier, la collaboration, dont nous avons vu qu'il s'agissait d'un élément fortement culturel dès le début de l'humanité. Nouvellement pour l'immatériel qui est directement une évolution de notre monde moderne. 
 
-Etrangement nous pouvons répondre aux défis en nous rappelant qui nous étions, notre horde. Mais ce n'est plus la même horde, nous sommes passés par des époques de scientisme absolu, d'un cartésianisme exacerbé, par un désenchantement et un recroquevillement sur l'égo. Elle a tout simplement évoluée tout en n'effaçant pas ce qu'elle est. 
+Étrangement nous pouvons répondre aux défis en nous rappelant qui nous étions, notre horde. Mais ce n'est plus la même horde, nous sommes passés par des époques de scientisme absolu, d'un cartésianisme exacerbé, par un désenchantement et un recroquevillement sur l'ego. Elle a tout simplement évoluée tout en n'effaçant pas ce qu'elle est. 
 
-Une contradiction chère à la complexité : Evoluons en restant qui nous sommes. 
+Une contradiction chère à la complexité : Évoluons en restant qui nous sommes. 
 
 \pagebreak 
 
