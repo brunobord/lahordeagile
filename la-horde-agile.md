@@ -336,7 +336,7 @@ Ai-je sombrer dans un romantisme désuet vain et classique de la pensée humaine
 
 Est-ce que c'est juste idiot d'envisager un apprentissage de notre horde de nos jours ? Même la psychologie évolutonniste nous indique que l'un des problèmes de l'homme actuel c'est souvent la non-adéquation de ce qu'il a été avec le monde moderne. Pourquoi vouloir y revenir ? Et ne pas chercher à progresser ? Conservatisme ?
 
-Je vois déjà certains prospects, clients, me dire : "oui pui pablo, si si intéressant, mais non, nous sommes une boite moderne nous, vos histoires d'hommes préhistoriques c'est sympa mais cela ne nous concerne pas. »
+Je vois déjà certains prospects, clients, me dire : "oui oui pablo, si si intéressant, mais non, nous sommes une boite moderne nous, vos histoires d'hommes préhistoriques c'est sympa mais cela ne nous concerne pas. »
 
 C'est dommage vous êtes arrivé jusqu'à ces lignes pour rien peut-être finalement. Un vrai gachis. Un naufrage. 
 
