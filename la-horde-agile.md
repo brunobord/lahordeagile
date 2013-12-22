@@ -435,6 +435,9 @@ Une contradiction chère à la complexité : Evoluons en restant qui nous somme
 Bibliographie
 ==============
 
+par ordre alphabétique
+
+Henri Atlan, *Entre le cristal et la fumée*
 
 Christopher Boehm, *Hierarchy in the forest / Evolution of Egalitarian Behavior*
 
