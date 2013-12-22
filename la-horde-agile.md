@@ -1,6 +1,6 @@
 %LA HORDE AGILE
 %« Qui ne transitionne pas se fossilise. », haiku préhistorique. 
-%Version BROUILLON 014 – décembre 2013
+%Version BROUILLON 015 – décembre 2013
 
 ![](illustrations/prehistory.jpg)
 
@@ -28,8 +28,8 @@ Durant mes réflexions à mes collègues, camarades et amis j'ai du me mettre à
 
 ![Les temps complexes](illustrations/temps-complexes.png)
 
-\pagebreak
 
+\pagebreak
 
 Histoire de la horde agile
 ==========================
@@ -117,7 +117,7 @@ Bien je vous propose de commencer par évoquer le chiffre de Dunbar. Robin Dunba
 
 Mary Poppendieck, la papesse du *Lean Software Developpement*, a tiré un excellent article^[Mary Poppendieck, Before there was management, http://www.leanessays.com/2011/02/before-there-was-management.html] des recherches de Dunbar  (« before there was management »), et introduit encore un autre concept de Christopher Allen, sur le chiffre de Dunbar et le plaisir d'appartenance à un groupe, selon la taille du groupe. C'est à dire que vous vous sentez plus ou moins bien dans des groupes selon leurs tailles^[Are you agile ? - http://www.areyouagile.com/2011/06/appartenance-a-un-groupe-et-niveau-de-satisfaction/]. Un groupe de sept personnes est excellent pour le moral, ou de cinquante, mais surtout pas de treize, quatorze, quinze, seize ! On connaît tous l'impact du moral, du bien-être dans la qualité de notre travail, c'est l'un des *mojos* du mouvement agile : responsabilisation et bien être des acteurs (pour la performance en plus, bingo). Je ne sais plus de qui cela vient mais j'avais beaucoup aimer : "l'enthousiasme fait les compétences". 
 
-Voici donc un premier enseignement fort de la nature de nos ancêtres, voici un premier enseignement de ce que nous sommes : vous êtes à la tête d'une structure de mille personnes, que faire ? Vous la divisez en départements de cent cinquante maximum, disons sept départements de *grosso modo* cent cinquante, eux mêmes divisés en sous-groupes de cinquante, eux mêmes divisés en équipe de sept^[Sur les organisations agiles à grande échelle ce petit article : http://www.areyouagile.com/2013/11/agile-a-grande-echelle-cest-clair-comme-du-cristal/]. 
+Voici donc un premier enseignement fort de la nature de nos ancêtres, voici un premier enseignement de ce que nous sommes : vous êtes à la tête d'une structure de mille personnes, que faire ? Vous la divisez en départements de cent cinquante maximum, disons sept départements de *grosso modo* cent cinquante, eux mêmes divisés en sous-groupes de cinquante, eux mêmes divisés en équipes de sept^[Sur les organisations agiles à grande échelle ce petit article : http://www.areyouagile.com/2013/11/agile-a-grande-echelle-cest-clair-comme-du-cristal/]. 
 
 Verbal Overshadowing
 ---------------------
@@ -490,6 +490,20 @@ A été écrit en écoutant :
 * Frank Zappa – Roxy & Elsewhere
 * Rose Tattoo – Rock'n Roll outlaw
 * Roscoe Holcomb – The high lonesome sound
+
+
+\pagebreak
+
+Mes relecteurs
+==============
+
+Merci à eux. 
+
+* Maman :)
+* David Larlet
+* Antoine Vernois
+* Christophe Monnier
+
 
 
 
