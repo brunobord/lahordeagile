@@ -356,7 +356,7 @@ Ouverture
 Spirale dynamique
 ------------------
 
-Encore un biologiste, Clare Graves, à l'origine de la Spirale Dynamique^[Fabien & Patricia Chabreuil, La spirale dynamique.], c'est bon signe.  La spirale dynamique nous propose un outil pour lire l'évolution du monde, des sociétés et des mentalités, de la culture collective et individuelle en quelque sorte, une description de la maturité des civilisations pourrait-on presque dire. 
+Encore un biologiste, Clare Graves, à l'origine de la Spirale Dynamique^[Fabien & Patricia Chabreuil, La spirale dynamique. Merci à Claude Emond de m'avoir mis sur la voie !], c'est bon signe.  La spirale dynamique nous propose un outil pour lire l'évolution du monde, des sociétés et des mentalités, de la culture collective et individuelle en quelque sorte, une description de la maturité des civilisations pourrait-on presque dire. 
 
 La spirale dynamique nous dit que notre action est portée par notre vision du monde , laquelle est issue de principes, croyances, valeurs^[Jacques Ferber, slides : Spirale dynamique] ;  bref de notre culture. Elle redit ce que je m'efforce à comprendre : notre culture est notre nature, notre nature est notre culture, nos actes émanent de notre culture/nature. Ces visions du monde, cette culture, émanent aussi des conditions de vie auxquelles nous sommes confrontés. Et le monde est redevenu complexe. 
 
