@@ -1,2 +1,2 @@
-pandoc la-horde-agile.md --toc --latex-engine=xelatex -o lahorde.pdf
+pandoc la-horde-agile.md --toc --latex-engine=xelatex -o lahordeagile.pdf
 
