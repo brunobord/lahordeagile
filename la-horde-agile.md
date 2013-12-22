@@ -429,6 +429,8 @@ Et donc, la crise en cours c'est juste le basculement vers ce monde différent o
 
 Une contradiction chère à la complexité : Évoluons en restant qui nous sommes. 
 
+*...et non je n'ai rien écrit sur le paleodiet*
+
 \pagebreak 
 
 Bibliographie
