@@ -184,6 +184,9 @@ D'où aussi probablement dans mes lectures à ce sujet la forte présence des bi
  
 Nous sommes ce que nous sommes et avons été en quelque sorte. Cela surprend quelqu'un ??? Et j'ajoute un mot d'Edgar Morin qui résume définitivement cette idée : « notre nature est notre culture, et notre culture est notre nature ». Voilà ce que nous rappelle et nous enseigne la horde agile. Notre façon de faire les choses, notre culture, est notre nature. Notre nature est en grande partie celle de cet hominidé qui parcourait les steppes. 
 
+![Les australopithèques](illustrations/crane1.png)
+
+
 Pas de raisonnement sans émotion
 ---------------------------------
 
@@ -221,6 +224,9 @@ Non seulement on sait désormais qu'aucun raisonnement n'est valide sans émotio
 ### Le singe enivré
 
 En parlant de rompre les silos, les barrières, une petite parenthèse sur la théorie du singe enivré de Terence McKenna^[Terence McKenna, Foods for the gods] qui je pense trouve sa place au sein de la horde... Terence McKenna développe l'idée -très intéressante- que le grand changement dans l'évolution et notamment l'essor inexplicable, ou très extraordinaire, des capacités mentales de nos ancêtres (cela démarre vers 4000 000 d'années avant Jimmy Page) n'est pas venu de la station debout (rendu déterminante dans la Savane) qui a libéré nos ancêtres. Mais le changement de régime alimentaire. En effet en se retrouvant dans la Savane du fait des changements climatiques, non seulement nos ancêtres doivent marcher, mais aussi manger différemment. Et là ils mangent des ... champignons hallucinogènes. Lesquels ouvrent des pans entiers dans leurs capacités intellectuelles (on sait que le *psilocybin* augmente fortement l'acuité visuelle par exemple). Or ces effets deviennent des avantages déterminants dans l'évolution. Ils rompent aussi les barrières dans les compartiments de nos cerveaux (n'oublie pas l'*homo sapiens demens* de Edgar Morin, notre caractéristique est d'avoir du désordre. Nos rêves sont désordonnés, pas ceux des animaux^[Je ne sais pas comment les scientifiques savent cela...mais bon, lisez Edgar Morin, le paradigme perdu : la nature humaine], est-ce un héritage de notre régime alimentaire ?). Bref Terence McKenna pousse sa théorie à penser que le langage est venu de cette logorrhée engendrée par l'état de transe. Sa théorie est riche, spectaculaire, gonflée, mais pas moins intéressante... et envisageable. 
+
+
+![Les homo-habilis](illustrations/crane2.png)
 
 Approche systémique
 ------------------- 
@@ -295,7 +301,11 @@ On pourrait même pousser l'analogie avec l'évolution. Qu'est ce qui a survécu
 
 On parle souvent en agilité de conception émergente, y voyant la panacée dans notre monde complexe d'une approche créative ou productive. Nous ne faisons rien de plus que de mettre ainsi en pratique ce que le monde n'a cessé de faire : essayer, observer, émerger (ou « Plan, Do, Check, Act » de Edward Deming,  le « essayons, testons, réparons », du Lean) : « marche bipède, grimper et petites dents à l'émail épais : c'est Orrorin ; marche bipède, grimper et grosses dents à émail mince : c'est Ardipithecus ; marche bipède exclusive et grosses dents : c'est Australopithecus anamensis ; marche bipède, grimper et face projetée, c'est Australopithecus afarensis, etc^[Préface de Yves Coppens, dans Origines de l'Homme et évolution culturelle de Fiorenzo Facchini]. »
 
+![Les homo-erectus](illustrations/crane3.png)
+
 \pagebreak
+
+
 
 Critiques
 ==========
@@ -347,6 +357,9 @@ Deux réponses.
 La première rapide vient de Claude Levi-Strauss : les primitifs ne sont pas culturellement sous développés. Ils possèdent des organisations complexes qui n’ont rien à envier aux nôtres en termes d’élaboration intellectuelle et culturelle. Je le rappelle, compte tenu de l'étendu de ses connaissances, l'homo-sapiens serait un polytechnicien dans notre monde nous dit Henry Laborit^[Henry Laborit, la nouvelle grille]. Donc pas de dénigrement. On peut s'en inspirer. On pense aussi qu'ils étaient en bonne santé, et travaillait 6,5 heures par jour (au lieu des 8,8 constatées en moyenne aujourd'hui)^[« Hunter, gatherer », wikipedia] (rythme soutenable?). Je le répète, on peut s'en inspirer.
 
 Pour la seconde, arnache toi, cela peut sentir le mode *Guru*. Je ne crois pas qu'il s'agisse d'un délire mystique mais malheureusement au premier contact cela en a l'apparence (comme d'habitude avec le new age, le souci ce n'est pas le fond, c'est la forme, le *packaging*). Je vous la livre plus bas. 
+
+
+![Les homo-sapiens](illustrations/crane4.png)
 
 \pagebreak
 
