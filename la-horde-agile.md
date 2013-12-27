@@ -1,6 +1,6 @@
 %LA HORDE AGILE
 %« Qui ne transitionne pas se fossilise. », haiku préhistorique. 
-%Mini-livre -- Pablo Pernot
+%Pablo Pernot, septembre-décembre 2013
 
 ![](illustrations/prehistory.jpg)
 
@@ -89,7 +89,7 @@ Petite nouvelle
 L'aliénation et le retour de la complexité
 ------------------------------------------
 
-Voilà. C'est naïf comme je te le disais. Mais de plus en l plus'idée de la horde prenait forme. Et soudain, quelques mois plus tard, cela m'a frappé : je venais de régurgiter une histoire profondément enfouie en moi, une bande dessinée de mon enfance, quand j'avais alors sept ou huit ans, et qui m'avait -- je ne sais pourquoi -- fascinée. La bande dessinée s'appelait : « Un Ours, je suis pourtant un ours » (de Jorg Muller & Jorg Steiner). (De mémoire) c'est l'histoire d'un ours qui sort de sa torpeur hivernale, et alors qu'il s'éveille il découvre qu'un immense chantier est installé juste au dessus de sa grotte. Alors qu'il est encore groggy un contremaître passe par là et l'alpague : « qu'est ce que tu fais là ?? au boulot !! ». « Mais je suis un ours » répond-il. « Tu es surtout flemmard et mal poli, allez va te raser et au boulot ! ». Ensuite c'est l'engrenage, l'ours se retrouve complètement dans la peau de l'ouvrier -- jusqu'au point de se raser -- (c'est un livre très politique en fait je crois...) et se plie complètement au pouvoir en place malgré ses protestations. Arrive l'hiver suivant, il est pris d'une grande mélancolie, l'hibernation l'appelle de toutes ses forces et il ne cesse de geindre « un ours, je suis pourtant un ours ». Je ne sais plus comment le livre fini. Mais mon histoire sur cet homme moderne -- qui fut un *homo sapiens* parcourant les plaines -- et qui se réveille dans le costume de l'ouvrier métro/boulot/dodo. C'est exactement le même sujet : celui de l'aliénation. Être étranger à soi-même. Ne plus suivre sa nature mais une habitude aliénante. 
+Voilà. C'est naïf comme je te le disais. Cependant de plus en plus l'idée de la horde prenait forme. Et soudain, quelques mois plus tard, cela m'a frappé : je venais de régurgiter une histoire profondément enfouie en moi, une bande dessinée de mon enfance, quand j'avais alors sept ou huit ans, et qui m'avait -- je ne sais pourquoi -- fascinée. La bande dessinée s'appelait : « Un Ours, je suis pourtant un ours » (de Jorg Muller & Jorg Steiner). (De mémoire) c'est l'histoire d'un ours qui sort de sa torpeur hivernale, et alors qu'il s'éveille il découvre qu'un immense chantier est installé juste au dessus de sa grotte. Alors qu'il est encore groggy un contremaître passe par là et l'alpague : « qu'est ce que tu fais là ?? au boulot !! ». « Mais je suis un ours » répond-il. « Tu es surtout flemmard et mal poli, allez va te raser et au boulot ! ». Ensuite c'est l'engrenage, l'ours se retrouve complètement dans la peau de l'ouvrier -- jusqu'au point de se raser -- (c'est un livre très politique en fait je crois...) et se plie complètement au pouvoir en place malgré ses protestations. Arrive l'hiver suivant, il est pris d'une grande mélancolie, l'hibernation l'appelle de toutes ses forces et il ne cesse de geindre « un ours, je suis pourtant un ours ». Je ne sais plus comment le livre fini. Mon histoire sur cet homme moderne -- qui fut un *homo sapiens* parcourant les plaines -- et qui se réveille dans le costume de l'ouvrier métro/boulot/dodo : c'est exactement le même sujet : celui de l'aliénation. Être étranger à soi-même. Ne plus suivre sa nature mais une habitude aliénante. 
 
 Voilà je crois une synthèse de mes réflexions de départ sur cette horde agile. 
 
@@ -126,7 +126,7 @@ Autre chose, le verbal *overshadowing* (prononce « ovaire chat dos oui gueux 
 
 C'est une histoire racontée par Dan Roam^[Dan Roam, Blah blah blah, http://changethis.com/manifesto/show/88.01.BlahBlahBlah], celle d'un clan (à chacun ses mots), celui de la grotte au taureau  (oui tu peux penser aux peintures rupestres de notre Lascaux). Dans son clan, au fond de la caverne, on a dessiné un taureau. Je ne peux pas vous dire à quoi il sert, on ne sait pas avec certitudes à quoi les peintures rupestres servaient, mais j'ai bien quelques idées : montrer la cible, invoquer un Dieu, un outil d'apprentissage, etc. 
  
-Quelques années plus tard, beaucoup plus tard en fait, chez les égyptiens, on découvre le même taureau -- quoi que différent --, dans les hiéroglyphes. Probablement les scribes qui notent la marchandise qui défile sur le Nil. Mais bon, au fil des années on trouve compliqué de dessiner tous ces taureaux... donc on prend un raccourci, le symbole du taureau devient un son, et non plus vraiment un taureau, ce qui permet d'écrire une phrase. C'est vrai pour certains symboles (ils deviennent des sons, des *phonogrammes*), mais pas tous (certains restent des *pictogrammes*). Un vrai casse tête cette histoire, ce mélange, ces hiéroglyphes, il faudra bien un *self made man* français et dyslexique pour en trouver la clef, Champollion. 
+Quelques années plus tard, beaucoup plus tard en fait, chez les égyptiens, on découvre le même taureau -- quoi que différent --, dans les hiéroglyphes. Probablement les scribes qui notent la marchandise qui défile sur le Nil. Il arrive qu'au fil des années on trouve compliqué de dessiner tous ces taureaux... donc on prend un raccourci, le symbole du taureau devient un son, et non plus vraiment un taureau, ce qui permet d'écrire une phrase. C'est vrai pour certains symboles (ils deviennent des sons, des *phonogrammes*), mais pas tous (certains restent des *pictogrammes*). Un vrai casse tête cette histoire, ce mélange, ces hiéroglyphes, il faudra bien un *self made man* français et dyslexique pour en trouver la clef, Champollion. 
 
 Enfin viennent les Phéniciens qui marchandent avec nos égyptiens. Pas mal le coup des symboles pour les sons, mais autant simplifier le dessin non ? C'est le son « Alf », qui vient du hiéroglyphe « taureau » qui devient la lettre « aleph » dans ce nouvel alphabet. Ensuite en passant dans les mains des grecs le symbole changera encore un peu et la lettre « A » appartiendra à l'histoire. (Avec la lettre A imaginez la tête du taureau avec ses cornes, renversée, à l'envers).
 
@@ -219,7 +219,7 @@ En cela il s'inspire fortement de Edgar Morin qui ajoute :
 
 >"C'est évidemment toute la structure du système de pensée qui se trouve bouleversée, transformée, c'est toute une énorme superstructure d'idées qui s'effondre. Voilà à quoi il faut s'apprêter." ^[Edgar Morin, Introduction à la pensée complexe]
 
-Non seulement on sait désormais qu'aucun raisonnement n'est valide sans émotion. Mais on doit aussi apprendre à faire confiance à nos émotions et apprendre à abandonner la précision inhumaine de cet arithmétique qui ne correspond pas à notre réalité : nous vivons dans des contextes systémiques. Arrêtons le "mécanisisme", le rationalisme. Il faut briser ces barrières artificielles. 
+Non seulement on sait désormais qu'aucun raisonnement n'est valide sans émotion. On doit aussi apprendre à faire confiance à nos émotions et apprendre à abandonner la précision inhumaine de cet arithmétique qui ne correspond pas à notre réalité : nous vivons dans des contextes systémiques. Arrêtons le "mécanisisme", le rationalisme. Il faut briser ces barrières artificielles. 
 
 ### Le singe enivré
 
@@ -239,7 +239,7 @@ Je sais par expérience que si je retire deux membres d'une équipe de six, et b
 
 Approche systémique et donc complexe s'il en est.  « La pensée complexe ne refuse pas du tout la clarté l'ordre et le déterminisme, elle les sait insuffisants, elle sait qu'on ne peut pas programmer la découverte, la connaissance, ni l'action »^[Edgar Morin, Introduction à la pensée complexe]. 
 
-Mais alors tu me dis, horrifié, qu'il n'est plus possible d'avoir des indicateurs ? Si ! Mais ces indicateurs seront des tendances, des estimations. Qu'il ne faudra pas trop jouer avec les chiffres mais plutôt : observer les faits, se garder d'aller trop loin sans feedback.  N'aie pas peur.
+Ainsi alors tu me dis, horrifié, qu'il n'est plus possible d'avoir des indicateurs ? Si ! Considère ces indicateurs comme des tendances, des estimations. Qu'il ne faudra pas trop jouer avec les chiffres mais plutôt : observer les faits, se garder d'aller trop loin sans feedback.  N'aie pas peur.
 
 Et les indicateurs seront surtout des choses achevées, abouties, concrètes. Combien de ventes ? Cette partie qui marche « là tu vois ! », cette grotte que l'on atteint « oui on y est ». 
 
@@ -263,7 +263,7 @@ Incertitude, contradiction, désordre
 
 Notre culture, notre nature, sont faites pour évoluer dans un monde complexe, incertains, avec des pensées parfois désordonnées. Bonne nouvelle, c'est le monde d'aujourd'hui. L'agile, la culture de l'agile, c'est l'acceptation de cela. Cette cuture agile c'est l'acceptation de l'incertitude, de la contradiction, du désordre. 
 
-Pour moi, et j'espère pour nous, pour toi, accepter la complexité c'est accepter l'incertitude. Il faut donc se donner du temps. Mais plus encore c'est accepter la contradiction (que je manie avec aisance et sans honte comme tu l'observes...). Il faut laisser l'auto-organisation, la responsabilisation agir. Cette incertitude et cette contradiction entraîne une part de désordre qui n'est d'autre qu'une voie vers l'évolution, l'amélioration. Pour citer Franck Zappa^[Rappelez à mon bon souvenir récemment, et dans ce cadre, par Dan Mezick] : « pas de création sans déviation de la norme » : cela aurait pu être une citation de Lamarck ou Darwin. C'est le désordre dans les pensées et dans les rêves qui a fait de l'homme, l'homme si l'on en croit Edgar Morin^[Edgar Morin, « le paradigme perdu : la nature humaine »]. C'est une idée séduisante. L'évolution vient d'ailleurs d'anomalies.
+Pour moi, et j'espère pour nous, pour toi, accepter la complexité c'est accepter l'incertitude. Il faut donc se donner du temps. Plus encore c'est accepter la contradiction (que je manie avec aisance et sans honte comme tu l'observes...). Il faut laisser l'auto-organisation, la responsabilisation agir. Cette incertitude et cette contradiction entraîne une part de désordre qui n'est d'autre qu'une voie vers l'évolution, l'amélioration. Pour citer Franck Zappa^[Rappelez à mon bon souvenir récemment, et dans ce cadre, par Dan Mezick] : « pas de création sans déviation de la norme » : cela aurait pu être une citation de Lamarck ou Darwin. C'est le désordre dans les pensées et dans les rêves qui a fait de l'homme, l'homme si l'on en croit Edgar Morin^[Edgar Morin, « le paradigme perdu : la nature humaine »]. C'est une idée séduisante. L'évolution vient d'ailleurs d'anomalies.
 
 La complexité ne recherche pas le désordre, mais c'est un de ses éléments. Je ne suis pas en train de te dire qu'il faudrait de l'incertitude constamment, de la contradiction de tous les instants, et vivre dans un beau désordre. Non, je dis simplement que ces éléments sont liés à la complexité, à notre évolution dans ce monde complexe, que nous sommes complexe, que le monde est complexe. Et c'est pour évoluer, progresser, dans cette complexité que j'invoque la horde (ah bon sang ce terme -- agile -- si difficile à contenir, je plussoie énormément quand Dominique Dupagne^[Dominique Dupagne, La revanche du rameur] explique que le mot « agile » c'est simplement un mot plus sexy pour attraper la notion de complexité).
 
@@ -283,7 +283,7 @@ L’auto-organisation est un phénomène naturel de tous les systèmes vivants, 
 J'en tire quelques enseignements :
 
 * C’est bien le désordre qui génère de la valeur car il est la matière pour de nouveaux motifs, pour un nouvel apprentissage.
-* L’auto-organisation c’est cette faculté des systèmes vivants à transformer ce bruit, ce désordre en motifs, en histoire, le chaos en ordre. Mais en faisant cela, l’apprentissage augmente, ainsi que la complexité : l’entrelacement des motifs mémorisés.
+* L’auto-organisation c’est cette faculté des systèmes vivants à transformer ce bruit, ce désordre en motifs, en histoire, le chaos en ordre. En faisant cela, l’apprentissage augmente, ainsi que la complexité : l’entrelacement des motifs mémorisés.
 * L’histoire racontée prend la forme idéale d'un motif à mémoriser.
 * L’auto-organisation et le *storytelling* sont donc intrinsèquement liés. Il y a une forte relation de feedback de l’un avec l’autre.
 
@@ -316,7 +316,7 @@ Critiques
 Dominance et territorialité
 ----------------------------
 
-Je t'entends penser à haute voix :« Mais la horde ce n'est pas cette meute avec ce chef qui s'impose par la force, viole les femelles et mange ses enfants (comme Cronos) ? »  « Et si tu invoques notre nature, tu ne peux pas ne pas évoquer la hiérarchisation forte de la nature humaine, cet instinct de domination ». Hiérarchie, dominance, territorialité, l'analogie, le rappel de la horde n'amène pas que des aspects positifs. 
+Je t'entends penser à haute voix :« La horde ce n'est pas cette meute avec ce chef qui s'impose par la force, viole les femelles et mange ses enfants (comme Cronos) ? »  « Et si tu invoques notre nature, tu ne peux pas ne pas évoquer la hiérarchisation forte de la nature humaine, cet instinct de domination ». Hiérarchie, dominance, territorialité, l'analogie, le rappel de la horde n'amène pas que des aspects positifs. 
 
 Oui, je suis embêté dans ma réflexion, je ne peux pas dire d'un côté : il faut se rappeler d'où nous venons pour mieux exploiter ce passé dans notre présent, car il nous colle à la peau en quelque sorte, et d'un autre côté passer sous silence certains aspects moins agréables, ou plus en porte à faux avec le discours agile : hiérarchie, dominance. 
 
@@ -380,7 +380,7 @@ Ces visions du monde se transmettent, comme la culture se transmet.
 
 Les conditions de vie provoquent des formes de pensées, qui elles-mêmes génèrent des pratiques qui elles même permettent de faire évoluer les conditions de vie qui provoquent de nouvelles formes de pensée, etc. Voici notre spirale qui prend forme. C'est très important c'est exactement la problématique des "transitions" ou "adoptions" agiles : on parle de culture mais on n'atteint souvent la culture qu'au travers de pratiques, mais les pratiques ne sont rien sans la culture, et l'appropriation de la culture fait évoluer ces pratiques, qui elles-mêmes... 
 
-En invoquant la horde agile, et la complexité du monde, je ne dis pas autre chose : le monde est re-connu comme complexe, re-devenu complexe, les murs de nos cités sont tombés, nos conditions de vie (et donc nos conditions de travail, les conditions de réussite de nos entreprises) ont changées, cela provoque donc une nouvelle forme de pensée : le retour à la horde agile. Mais voilà, ce retour pourrait paraître peu glorieux, ce retour aux errements de la horde ? C'est là que la spirale et grille de lecture proposées par Clares Graves viennent à mon secours. 
+En invoquant la horde agile, et la complexité du monde, je ne dis pas autre chose : le monde est re-connu comme complexe, re-devenu complexe, les murs de nos cités sont tombés, nos conditions de vie (et donc nos conditions de travail, les conditions de réussite de nos entreprises) ont changées, cela provoque donc une nouvelle forme de pensée : le retour à la horde agile. Voilà, ce retour pourrait paraître peu glorieux, ce retour aux errements de la horde ? C'est là que la spirale et grille de lecture proposées par Clares Graves viennent à mon secours. 
 
 De façon très vulgarisée (pardon aux spécialistes du domaine) : Graves proposa, suite à ses recherches et observations, huit niveaux de civilisation, de maturité, six qu'il a observés, deux qu'il supposa à venir. 
 
@@ -398,13 +398,13 @@ Pour palier à la dérive bureaucratique ou autre (inquisition de l'église ?^[e
 
 Voilà les cinq premiers niveaux, on les retrouve un peu partout sur la planète à différents endroits. Les sociétés et organisations auxquelles je suis parfois confrontées oscillent entre ces différents niveaux, et en période de crise il existe la possibilité qu'elles s'effondrent sur plusieurs niveaux. 
 
-Mais on observe aussi de plus en plus en différents endroits, et de plus en plus souvent, un sixième niveau. Quand une frustration résulte de cette rationalisation à l'extrême, de cette absence d'émotion. Quand vient une frustration liée au cartésianisme à outrance surgit et que l'on découvre ses limites. On franchit ce niveau, celui de l'empathie, du communautaire, celui *relativiste*, celui du ressenti. On se retrouve avec le *we are great* du livre^[Dave Logan, Tribal Leadership] évoqué précédemment. (On dira que c'est le niveau vert). 
+On observe aussi de plus en plus en différents endroits, et de plus en plus souvent, un sixième niveau. Quand une frustration résulte de cette rationalisation à l'extrême, de cette absence d'émotion. Quand vient une frustration liée au cartésianisme à outrance surgit et que l'on découvre ses limites. On franchit ce niveau, celui de l'empathie, du communautaire, celui *relativiste*, celui du ressenti. On se retrouve avec le *we are great* du livre^[Dave Logan, Tribal Leadership] évoqué précédemment. (On dira que c'est le niveau vert). 
 
 Vous observerez dans cette spirale (mouvement ascendant des niveaux, avec l'image quelque peu naïve de l'ADN) : que l'on bascule d'un niveau de groupe (tribal, du parti, de la croyance, de la communauté de l'ouverture aux autres) à un niveau individuel (celui de la force brut, de l'affirmation du soi rationnel). 
 
 Dans mon métier d'agent provocateur (de convergences, de changements, d'idées, de …) j'aborde difficilement les organisations de niveaux bleus , elles doivent en plus nécessairement transiter vers un niveau où elles permettent l'affirmation de soi au dépens de la structure aveugle et procédurière avant d'atteindre le niveau de collaboration qui est (à mon avis) celui de l'*agile* (le vert).
 
-Mais au delà de ce dernier niveau, que l'on observe dans le monde actuel, Clares Graves avait anticipé deux niveaux supérieurs (l'inspiration probable de *Life is great* de Tribal Leadership par Dave Logan). Le niveau « jaune », le septième, celui où l'on va au delà de la collaboration communautaire, spirituelle, pour appréhender la vie comme un système dynamique complexe, avec une volonté d'amélioration continue non narcissique. 
+Au delà de ce dernier niveau, que l'on observe dans le monde actuel, Clares Graves avait anticipé deux niveaux supérieurs (l'inspiration probable de *Life is great* de Tribal Leadership par Dave Logan). Le niveau « jaune », le septième, celui où l'on va au delà de la collaboration communautaire, spirituelle, pour appréhender la vie comme un système dynamique complexe, avec une volonté d'amélioration continue non narcissique. 
 
 Enfin un huitième niveau, holarchique et intégral : la vie est un tout et chacun en constitue une partie, le premier niveau ou l'on dépasse le moi^[La fin de l'égo si cher à Corine Sombrun, *Journal d'une apprentie chamane* ](et où même l'aspect communautaire disparaît pour le tout). Bon là on va virer guru *new age* et manger des *space cakes* mais pourquoi pas (c'est juste que je ne dois pas encore être assez mature). 
 
@@ -434,7 +434,7 @@ Marc Halévy^[Marc Halévy, Un univers complexe] imagine une grande bifurcation 
 
 Et puis il observe dans la plupart des grandes civilisations de grands changements (la fin de certaines ères): l'invasion des cités  grecques -150, la chute de l'empire romain +380, mutation féodale +920, Renaissance +1450... la prochaine est maintenant (il faut compter environ autour de tous les 500 ans).
 
-On passerait selon lui (et j'aime à le croire) d'une économie de masses à une économie de niches, d'une économie de volumes à une économie de marges, d'une économique capitalistique à une économie humanistiques, d'une économie de la productivité à celle de la créativité, etc.  
+On passerait selon lui (et j'aime à le croire) d'une économie de masses à une économie de niches, d'une économie de volumes à une économie de marges, d'une économique capitalistique à une économie humanistiques, d'une économie de la productivité à celle de la créativité, etc.
 
 C'est le moment du grand croisement. Nous serions à l'aube d'une nouvelle civilisation^[C'est aussi l'intuition de jean-François Zobrist dans cette belle conférence.http://www.youtube.com/watch?v=XCHUhyu9Tt0&html5=1]. 
 
