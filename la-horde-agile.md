@@ -557,7 +557,7 @@ Me retrouver :
 * [http://www.smartview.fr](http://www.smartview.fr)
 * [@pablopernot (twitter)](http://twitter.com/#!/pablopernot)
 
-ps : Je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haïku. 
+ps : Je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haiku. 
 
 ![Conférence sur la horde agile, Marseille, 2013](illustrations/pablo.jpg)
 
