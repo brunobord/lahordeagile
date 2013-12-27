@@ -434,7 +434,7 @@ Marc Halévy^[Marc Halévy, Un univers complexe] imagine une grande bifurcation 
 
 Et puis il observe dans la plupart des grandes civilisations de grands changements (la fin de certaines ères): l'invasion des cités  grecques -150, la chute de l'empire romain +380, mutation féodale +920, Renaissance +1450... la prochaine est maintenant (il faut compter environ autour de tous les 500 ans).
 
-On passerait selon lui (et j'aime à le croire) d'une économie de masses à une économie de niches, d'une économie de volumes à une économie de marges, d'une économique capitalistique à une économie humanistiques, d'une économie de la productivité à celle de la créativité, etc.
+On passerait selon lui (et j'aime à le croire) d'une économie de masses à une économie de niches, d'une économie de volumes à une économie de marges, d'une économique *capitalistique* à une économie *humanistique*, d'une économie de la productivité à celle de la créativité, etc.
 
 C'est le moment du grand croisement. Nous serions à l'aube d'une nouvelle civilisation^[C'est aussi l'intuition de jean-François Zobrist dans cette belle conférence.http://www.youtube.com/watch?v=XCHUhyu9Tt0&html5=1]. 
 
