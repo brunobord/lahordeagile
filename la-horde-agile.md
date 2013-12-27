@@ -1,6 +1,6 @@
 %LA HORDE AGILE
 %« Qui ne transitionne pas se fossilise. », haiku préhistorique. 
-%Version BROUILLON 20131227-001
+%Mini-livre -- Pablo Pernot
 
 ![](illustrations/prehistory.jpg)
 
@@ -529,6 +529,33 @@ Merci à eux.
 
 et merci aux conseils du pro (Éditions Praxeo) : Alexis Beuve. 
 
+\pagebreak
+
+A propos de l'auteur
+======================
+
+**Pablo Pernot**
+
+Agent provocateur (de changements ? d’idées ? d’émotions ? etc.).
+
+*Paris & Montpellier, France*
+
+Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
+
+* Aucun plan ne survit au premier contact avec l’ennemi —Helmuth Von Moltke
+* Je refuse de faire partie d’un club qui m’accepterait comme membre ! —Groucho Marx
+* L’enthousiasme fait les compétences —auteur inconnu
+* On a deux vies, la deuxième commence quand on découvre que l’on en a qu’une seule —Confucius
+* Ils ne savaient pas que c’était impossible, alors ils l’ont fait —Mark Twain.
+* Trop de sages femmes, le bébé est mort —proverbe roumain
+
+Me retrouver : 
+
+* [http://www.areyouagile.com](http://www.areyouagile.com)
+* [http://www.smartview.fr](http://www.smartview.fr)
+* [@pablopernot (twitter)](http://twitter.com/#!/pablopernot)
 
 
+
+![Conférence sur la horde agile, Marseille, 2013](illustrations/pablo.jpg)
 
