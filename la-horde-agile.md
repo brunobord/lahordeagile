@@ -1,6 +1,6 @@
 %LA HORDE AGILE
 %« Qui ne transitionne pas se fossilise. », haiku préhistorique. 
-%Version BROUILLON 20131225-001
+%Version BROUILLON 20131227-001
 
 ![](illustrations/prehistory.jpg)
 
