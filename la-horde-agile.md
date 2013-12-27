@@ -1,6 +1,6 @@
 %LA HORDE AGILE
 %« Qui ne transitionne pas se fossilise. », haiku préhistorique. 
-%Pablo Pernot, septembre-décembre 2013
+%Pablo Pernot, Septembre-Décembre 2013
 
 ![](illustrations/prehistory.jpg)
 
@@ -544,12 +544,12 @@ Agent provocateur (de changements ? d’idées ? d’émotions ? etc.).
 
 Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
 
-* Aucun plan ne survit au premier contact avec l’ennemi —Helmuth Von Moltke
-* Je refuse de faire partie d’un club qui m’accepterait comme membre ! —Groucho Marx
-* L’enthousiasme fait les compétences —auteur inconnu
-* On a deux vies, la deuxième commence quand on découvre que l’on en a qu’une seule —Confucius
-* Ils ne savaient pas que c’était impossible, alors ils l’ont fait —Mark Twain.
-* Trop de sages femmes, le bébé est mort —proverbe roumain
+* *Aucun plan ne survit au premier contact avec l’ennemi* -- Helmuth Von Moltke
+* *Je refuse de faire partie d’un club qui m’accepterait comme membre !* -- Groucho Marx
+* *L’enthousiasme fait les compétences* -- Auteur inconnu
+* *On a deux vies, la deuxième commence quand on découvre que l’on en a qu’une seule* -- Confucius
+* *Ils ne savaient pas que c’était impossible, alors ils l’ont fait* -- Mark Twain.
+* *Trop de sages femmes, le bébé est mort* -- Proverbe roumain
 
 Me retrouver : 
 
@@ -557,7 +557,7 @@ Me retrouver :
 * [http://www.smartview.fr](http://www.smartview.fr)
 * [@pablopernot (twitter)](http://twitter.com/#!/pablopernot)
 
-ps : je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haïku. 
+ps : Je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haïku. 
 
 ![Conférence sur la horde agile, Marseille, 2013](illustrations/pablo.jpg)
 

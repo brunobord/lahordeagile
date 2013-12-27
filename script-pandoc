@@ -1,2 +1,2 @@
-pandoc la-horde-agile.md --toc --latex-engine=xelatex --template=horde.tex -o lahordeagile.pdf
+pandoc la-horde-agile.md --toc --latex-engine=xelatex --variable version=20131227 --template=horde.tex -o lahordeagile.pdf
 
