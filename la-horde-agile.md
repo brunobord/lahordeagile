@@ -209,7 +209,7 @@ Remise en question de notre orthodoxie cartésienne
 
 Mais bon sang pourquoi gérer vos projets avec des chiffres ? 
 
-Qu'il s'agisse des mathématiques pur et simple (complètement remis en cause par exemple dans l'infiniment petit), ou de calculs infaisables car trop complexe (trop de paramètres), on ne peut pas utiliser de l'arithmétique pur pour gérer nos projets. De nombreux auteur (dont particulièrement le *univers complexe* de Marc Halévy, parmi mes dernières lectures) te donneront de nombreuses explications que je ne maîtrise pas forcément, sur la fin mathématique de l'absolutisme du mouvement de pensée de Descartes et Newton. 
+Qu'il s'agisse des mathématiques pur et simple (complètement remis en cause par exemple dans l'infiniment petit ou l'infiniment^["Infiniment" par rapport à nous...] grand), ou de calculs infaisables car trop complexe (trop de paramètres), on ne peut pas utiliser de l'arithmétique pur pour gérer nos projets. De nombreux auteur (dont particulièrement le *univers complexe* de Marc Halévy, parmi mes dernières lectures) te donneront de nombreuses explications que je ne maîtrise pas forcément, sur la fin mathématique de l'absolutisme du mouvement de pensée de Descartes et Newton. 
 
 >"La méthode cartésienne, fer de lance de la méthode scientifique, a vécu. Les systèmes, phénomènes et processus complexes ont clairement et irrévocablement démontré les limites et impasses de ces approches là. Fin du réductionnisme, fin du mécanisisme, fin de l'analycisme. […] Les sciences de la complexité -- par essence -- sont des domaines pluridisciplinaires, transdisciplinaires : on ne comprendra rien à l'évolution du cosmos si l'on ne comprend pas bien la logique du déploiement d'un arbre ou la logique de composition d'une symphonie. La science n'est plus compartimentale. Elle est une." nous dit Marc Halévy^[Marc Halévy, *Un univers complexe*]. 
   
@@ -231,9 +231,9 @@ Approche systémique
 
 Est-ce que notre horde a des indicateurs chiffrés ? Non. Est-ce qu'elle mettait sa vie en jeu ? Oui.
  
-Je sais par expérience que si j'ai une équipe de 20 personnes, que je multiplie 20*(4*0,25) (soit 4 quarts de journées) pour avoir plein de petits quarts de journée de production à placer comme bon me semble, et bien cela ne marche pas. 
+Je pense par expérience que si j'ai une équipe de 20 personnes, que je multiplie 20\*(4\*0,25) (soit 4 quarts de journées) pour avoir plein de petits quarts de journée de production à placer comme bon me semble, et bien cela ne marche pas. 
 
-Je sais par expérience que si je retire deux membres d'une équipe de six, et bien la productivité de l'équipe va ...doubler... des fois, et des fois s'effondrer, avec les même personnes dans les deux cas. 
+Je pense par expérience que si je retire deux membres d'une équipe de six, et bien la productivité de l'équipe va ...doubler... des fois, et des fois s'effondrer, avec les même personnes dans les deux cas. 
 
 Approche systémique et donc complexe s'il en est.  « La pensée complexe ne refuse pas du tout la clarté l'ordre et le déterminisme, elle les sait insuffisants, elle sait qu'on ne peut pas programmer la découverte, la connaissance, ni l'action »^[Edgar Morin, *Introduction à la pensée complexe*]. 
 
