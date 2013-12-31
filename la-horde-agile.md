@@ -525,11 +525,10 @@ Mes relecteurs
 
 Merci à eux. 
 
-* Micotte Pernot (ma mère)
-* David Larlet
-* Christophe Monnier
+* Karine Servant (ma femme) & Micotte Pernot (ma mère)
+* Bruno Bord, David Larlet & Christophe Monnier
 
-et merci aux conseils du pro (Éditions Praxeo) : Alexis Beuve. 
+Et merci aux conseils du pro (Éditions Praxeo) : Alexis Beuve. 
 
 \pagebreak
 
@@ -542,14 +541,29 @@ Agent provocateur (de changements ? d’idées ? d’émotions ? etc.).
 
 *Paris & Montpellier, France*
 
+----------------------------------------------
+
 Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
 
-* *Aucun plan ne survit au premier contact avec l’ennemi* -- Helmuth Von Moltke
-* *Je refuse de faire partie d’un club qui m’accepterait comme membre !* -- Groucho Marx
-* *L’enthousiasme fait les compétences* -- Auteur inconnu
-* *On a deux vies, la deuxième commence quand on découvre que l’on en a qu’une seule* -- Confucius
-* *Ils ne savaient pas que c’était impossible, alors ils l’ont fait* -- Mark Twain.
-* *Trop de sages femmes, le bébé est mort* -- Proverbe roumain
+>*Aucun plan ne survit au premier contact avec l’ennemi.*\newline 
+-- Helmuth Von Moltke
+
+>*Je refuse de faire partie d’un club qui m’accepterait comme \newline membre !*\newline
+-- Groucho Marx
+
+>*L’enthousiasme fait les compétences.*\newline 
+-- auteur inconnu
+
+>*On a deux vies, la deuxième commence quand on découvre que l’on en a qu’une seule.*\newline
+-- Confucius
+
+>*Ils ne savaient pas que c’était impossible, alors ils l’ont fait.*\newline
+-- Mark Twain.
+
+>*Trop de sages femmes, le bébé est mort.*\newline
+-- Proverbe roumain
+
+-------------------------------------------------
 
 Me retrouver : 
 
@@ -557,7 +571,20 @@ Me retrouver :
 * [http://www.smartview.fr](http://www.smartview.fr)
 * [@pablopernot (twitter)](http://twitter.com/#!/pablopernot)
 
-ps : Je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haiku. 
+-------------------------------------------------
+
+Le texte et ses mises à jour : 
+
+* [Sur github](https://github.com/pablopernot/lahordeagile)
+
+-------------------------------------------------
+
+Je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haiku. 
+
+\pagebreak
 
 ![Conférence sur la horde agile, Marseille, 2013](illustrations/pablo.jpg)
 
+\pagebreak
+
+*Histoire d'avoir 42 pages...*
