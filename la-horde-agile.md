@@ -239,7 +239,7 @@ Approche systémique et donc complexe s'il en est.
 
 >"La pensée complexe ne refuse pas du tout la clarté l'ordre et le déterminisme, elle les sait insuffisants, elle sait qu'on ne peut pas programmer la découverte, la connaissance, ni l'action", Edgar Morin^[Edgar Morin, *Introduction à la pensée complexe*]. 
 
-Ainsi alors tu me dis, horrifié, qu'il n'est plus possible d'avoir des indicateurs ? Si ! Considère ces indicateurs comme des tendances, des estimations. Qu'il ne faudra pas trop jouer avec les chiffres mais plutôt : observer les faits, se garder d'aller trop loin sans feedback.  N'aie pas peur.
+Ainsi alors tu me dis, horrifié, qu'il n'est plus possible d'avoir des indicateurs ? Si ! Considère ces indicateurs comme des tendances, des estimations. Qu'il ne faudra pas trop jouer avec les chiffres mais plutôt : observer les faits, se garder d'aller trop loin sans *feedback*.  N'aie pas peur.
 
 Et les indicateurs seront surtout des choses achevées, abouties, concrètes. Combien de ventes ? Cette partie qui marche « là tu vois ! », cette grotte que l'on atteint « oui on y est ». 
 
@@ -261,31 +261,31 @@ Incertitude, contradiction, désordre
 
 >"Large corporations or government bureaucracy could exist and do the job so long as the environment for which they were designed remained essentially unchanged. At the moment, however, we have a new situation wherein we must deal with highly complex organizations in very fast moving environments", Harrison Owen^[Harrison Owen, *Spirit*].
 
-Notre culture, notre nature, sont faites pour évoluer dans un monde complexe, incertains, avec des pensées parfois désordonnées. Bonne nouvelle, c'est le monde d'aujourd'hui. L'agile, la culture de l'agile, c'est l'acceptation de cela. Cette cuture agile c'est l'acceptation de l'incertitude, de la contradiction, du désordre. 
+Notre culture, notre nature, sont faites pour évoluer dans un monde complexe, incertain, avec des pensées parfois désordonnées. Bonne nouvelle, c'est le monde d'aujourd'hui. L'agile, la culture de l'agile, c'est l'acceptation de cela. Cette culture agile c'est l'acceptation de l'incertitude, de la contradiction, du désordre. 
 
 Pour moi, et j'espère pour nous, pour toi, accepter la complexité c'est accepter l'incertitude. Il faut donc se donner du temps. Plus encore c'est accepter la contradiction (que je manie avec aisance et sans honte comme tu l'observes...). Il faut laisser l'auto-organisation, la responsabilisation agir. Cette incertitude et cette contradiction entraîne une part de désordre qui n'est d'autre qu'une voie vers l'évolution, l'amélioration. Pour citer Franck Zappa^[Rappelez à mon bon souvenir récemment, et dans ce cadre, par Dan Mezick] : « pas de création sans déviation de la norme » : cela aurait pu être une citation de Lamarck ou Darwin. C'est le désordre dans les pensées et dans les rêves qui a fait de l'homme, l'homme si l'on en croit Edgar Morin^[Edgar Morin, *Le paradigme perdu : la nature humaine*]. C'est une idée séduisante. L'évolution vient d'ailleurs d'anomalies.
 
 La complexité ne recherche pas le désordre, mais c'est un de ses éléments. Je ne suis pas en train de te dire qu'il faudrait de l'incertitude constamment, de la contradiction de tous les instants, et vivre dans un beau désordre. Non, je dis simplement que ces éléments sont liés à la complexité, à notre évolution dans ce monde complexe, que nous sommes complexe, que le monde est complexe. Et c'est pour évoluer, progresser, dans cette complexité que j'invoque la horde (ah bon sang ce terme -- agile -- si difficile à contenir, je plussoie énormément quand Dominique Dupagne^[Dominique Dupagne, *La revanche du rameur*] explique que le mot « agile » c'est simplement un mot plus sexy pour attraper la notion de complexité).
 
-Auto-organisation et storytelling
-----------------------------------
+Auto-organisation et *storytelling*
+------------------------------------
 
 J'avais évoqué rapidement plus haut le *storytelling* comme mode d'apprentissage. Et aussi la responsabilisation et l'autonomie comme réponse agile à la complexité du monde (que nous venons d'évoqué). Cette responsabilisation, autonomie, le mieux serait de l'appeler auto-organisation. Or l'auto-organisation est une caractéristique naturelle de tous systèmes vivants.
 
 >"les systèmes humains comme tous les systèmes vivants, sont auto-organisés, et plus loin il assène : organiser un système auto-organisé, ce n’est pas seulement un oxymore, c’est surtout stupide !" vitupère d'ailleurs Harrison Owen^[Harrison Owen, *Dancing with shiva, TEDx conference*]
 
-Storytelling, auto-organisation, complexité sont intimement liés.
+*Storytelling*, auto-organisation, complexité sont intimement liés.
 
-L’apprentissage c’est l’intégration de motifs. Plus on apprend plus on intègre de motifs pour différencier les situations. Le bruit et le désordre existent,et donc de nombreux motifs se ressemblent mais sont différents. On créé alors de plus en plus de motifs pour répondre à notre apprentissage grandissant. Ainsi le désordre génère de l’ordre (de plus en plus de motifs) mais dans un ensemble de plus en plus complexe. C’est ce qui constitue en fait ce que nous sommes, nos histoires, d’où le storytelling, c’est notre passé, nos motifs mémoriels. C’est notre conscience volontaire nous dit aussi Henri Atlan^[Henri Atlan, *Entre le cristal et la fumée*], mais elle concerne ainsi d’abord le passé.
+L’apprentissage c’est l’intégration de motifs. Plus on apprend, plus on intègre de motifs pour différencier les situations. Le bruit et le désordre existent, et donc de nombreux motifs se ressemblent mais sont différents. On créé alors de plus en plus de motifs pour répondre à notre apprentissage grandissant. Ainsi le désordre génère de l’ordre (de plus en plus de motifs) mais dans un ensemble de plus en plus complexe. C’est ce qui constitue en fait ce que nous sommes, nos histoires, d’où le *storytelling*, c’est notre passé, nos motifs mémoriels. C’est notre conscience volontaire nous dit aussi Henri Atlan^[Henri Atlan, *Entre le cristal et la fumée*], mais elle concerne ainsi d’abord le passé.
 
-L’auto-organisation est un phénomène naturel de tous les systèmes vivants, auxquels nous n’échappons pas. Ce que précise Henri Atlan c’est que l’auto-organisation est introduite par le désordre, auquel il faut répondre, comme vu au dessus pour générer des motifs (de l’ordre). L’auto-organisation c’est cette phase d’apprentissage non dirigé (par un professeur par exemple) qui à pour but de générer des motifs. Cette auto-organisation dévoile selon Henri Atlan notre volonté inconsciente (et ainsi le futur, vers quoi nous tendons), puisque nous essayons de créer de l’organisé en partant du chaos selon nos désirs.
+L’auto-organisation est un phénomène naturel de tous les systèmes vivants, auxquels nous n’échappons pas. Ce que précise Henri Atlan c’est que l’auto-organisation est introduite par le désordre, auquel il faut répondre, comme vu au-dessus pour générer des motifs (de l’ordre). L’auto-organisation c’est cette phase d’apprentissage non dirigé (par un professeur par exemple) qui a pour but de générer des motifs. Cette auto-organisation dévoile selon Henri Atlan notre volonté inconsciente (et ainsi le futur, vers quoi nous tendons), puisque nous essayons de créer de l’organiser en partant du chaos selon nos désirs.
 
 J'en tire quelques enseignements :
 
 * C’est bien le désordre qui génère de la valeur car il est la matière pour de nouveaux motifs, pour un nouvel apprentissage.
 * L’auto-organisation c’est cette faculté des systèmes vivants à transformer ce bruit, ce désordre en motifs, en histoire, le chaos en ordre. En faisant cela, l’apprentissage augmente, ainsi que la complexité : l’entrelacement des motifs mémorisés.
 * L’histoire racontée prend la forme idéale d'un motif à mémoriser.
-* L’auto-organisation et le *storytelling* sont donc intrinsèquement liés. Il y a une forte relation de feedback de l’un avec l’autre.
+* L’auto-organisation et le *storytelling* sont donc intrinsèquement liés. Il y a une forte relation de *feedback* de l’un avec l’autre.
 
 Henri Atlan explique ensuite certains troubles psychologiques, le délire évoqué par Edgar Morin dans son paradigme perdu, par des systèmes figés, ou l’apprentissage n’a plus lieu : c’est donc le même motif, immuable, que l’on retourne constamment (et qui prend la forme de délire chez l’homme). Le lien avec une maladie organisationnelle me parait évident : pense à Kafka, on est figé dans des motifs où l’apprentissage n’a plus lieu, que l’on répète constamment. Pense aux organisations dont les processus sont figés, qui n’apprennent plus de nouveaux motifs liés aux variations que l’organisation rencontre (nécessairement). Une organisation sans auto-organisation est une organisation malade, délirante^[Voir aussi : http://www.areyouagile.com/2013/12/auto-organisation-et-storytelling/].
 
@@ -300,9 +300,9 @@ Notre culture nourrit nos comportements.
 
 Notre nature et notre culture ne sont pas enclins à un cartésianisme absolutiste. Les systèmes et dynamiques de nos projets agiles ne sont pas conformes avec une rationalisation forte, avec un déterminisme « définitif » en quelque sorte. 
 
-On pourrait même pousser l'analogie avec l'évolution. Qu'est ce qui a survécu et pourquoi ? Peut-on s'en inspirer ? Attention il y a des différences, rien n'est simple (complexe ? Vous avez dit complexe ? Tiens comme c'est complexe). Par exemple la nature prend son temps : entre productivité et innovation il faut choisir. La nature essaye plein de choses, elle ne regarde pas à la dépense elle, elle a le temps.
+On pourrait même pousser l'analogie avec l'évolution. Qu'est ce qui a survécu et pourquoi ? Peut-on s'en inspirer ? Attention il y a des différences, rien n'est simple (complexe ? Vous avez dit complexe ? Tiens comme c'est complexe). Par exemple, la nature prend son temps : entre productivité et innovation il faut choisir. La nature essaye plein de choses, elle ne regarde pas à la dépense elle, elle a le temps.
 
-On parle souvent en agilité de conception émergente, y voyant la panacée dans notre monde complexe d'une approche créative ou productive. Nous ne faisons rien de plus que de mettre ainsi en pratique ce que le monde n'a cessé de faire : essayer, observer, émerger (ou « Plan, Do, Check, Act » de Edward Deming,  le « essayons, testons, réparons », du Lean) : 
+On parle souvent en agilité de conception émergente, y voyant la panacée dans notre monde complexe d'une approche créative ou productive. Nous ne faisons rien de plus que de mettre ainsi en pratique ce que le monde n'a cessé de faire : essayer, observer, émerger (ou *Plan, Do, Check, Act* de Edward Deming,  le « essayons, testons, réparons », du *Lean*) : 
 
 > "Marche bipède, grimper et petites dents à l'émail épais : c'est Orrorin ; marche bipède, grimper et grosses dents à émail mince : c'est Ardipithecus ; marche bipède exclusive et grosses dents : c'est Australopithecus anamensis ; marche bipède, grimper et face projetée, c'est Australopithecus afarensis, etc.", préface de Yves Coppens, dans *Origines de l'Homme et évolution culturelle* de Fiorenzo Facchini. 
 
