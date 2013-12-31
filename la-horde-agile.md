@@ -200,7 +200,7 @@ Le *Lean* et surtout l'agile sont les fruits d'une culture dont le raisonnement 
 
 C'est donc probablement par rejet dans les lieux les plus cartésiens qu'ils sont apparus. Dans l'industrie automobile, là où le taylorisme a été poussé à son paroxysme pour le *Lean*. Dans la création logiciels informatiques, au sein des équipes informatiques, le lieu du code, le lieu du binaire, du bits (tu sais 0,1). Hérésie et vieilles dentelles, chaînes de montage, logiciels informatiques, c'est au sein de structures où le cartésianisme devait prouver sa validité la plus totale qu'il a volé en éclat^[Le code, berceau de l'agilité, http://www.areyouagile.com/2013/10/le-code-le-berceau-de-lagilite/]. 
 
-Nous pensons donc maintenant qu'aucun raisonnement ne tient sans émotion. Et que les émotions et nos raisonnements reposent en partie sur ce que nous sommes et avons été. Problème : dans beaucoup d'environnements cette approche plus sensible, plus intuitive est aux antipodes de la culture ambiante. Dans les projets informatiques la *rationalisation chiffrée* vit des heures heureuses. Et voilà que nous sommes nous sommes en train de dire qu'il est essentiel de changer tout cela. 
+Nous pensons donc maintenant qu'aucun raisonnement ne tient sans émotion, et que les émotions et nos raisonnements reposent en partie sur ce que nous sommes et avons été. Problème : dans beaucoup d'environnements cette approche plus sensible, plus intuitive est aux antipodes de la culture ambiante. Dans les projets informatiques la *rationalisation chiffrée* vit des heures heureuses. Et voilà que nous sommes en train de dire qu'il est essentiel de changer tout cela. 
 
 Remise en question de notre orthodoxie cartésienne
 --------------------------------------------------
@@ -209,7 +209,7 @@ Remise en question de notre orthodoxie cartésienne
 
 Mais bon sang pourquoi gérer vos projets avec des chiffres ? 
 
-Qu'il s'agisse des mathématiques pur et simple (complètement remis en cause par exemple dans l'infiniment petit ou l'infiniment^["Infiniment" par rapport à nous...] grand), ou de calculs infaisables car trop complexe (trop de paramètres), on ne peut pas utiliser de l'arithmétique pur pour gérer nos projets. De nombreux auteur (dont particulièrement le *univers complexe* de Marc Halévy, parmi mes dernières lectures) te donneront de nombreuses explications que je ne maîtrise pas forcément, sur la fin mathématique de l'absolutisme du mouvement de pensée de Descartes et Newton. 
+Qu'il s'agisse des mathématiques pur et simple (complètement remis en cause par exemple dans l'infiniment petit ou l'infiniment^["Infiniment" par rapport à nous...] grand), ou de calculs infaisables car trop complexe (trop de paramètres), on ne peut pas utiliser de l'arithmétique pur pour gérer nos projets. De nombreux auteurs (dont particulièrement  *Un univers complexe* de Marc Halévy, parmi mes dernières lectures) te donneront de nombreuses explications que je ne maîtrise pas forcément, sur la fin mathématique de l'absolutisme du mouvement de pensée de Descartes et Newton. 
 
 >"La méthode cartésienne, fer de lance de la méthode scientifique, a vécu. Les systèmes, phénomènes et processus complexes ont clairement et irrévocablement démontré les limites et impasses de ces approches là. Fin du réductionnisme, fin du mécanisisme, fin de l'analycisme. […] Les sciences de la complexité -- par essence -- sont des domaines pluridisciplinaires, transdisciplinaires : on ne comprendra rien à l'évolution du cosmos si l'on ne comprend pas bien la logique du déploiement d'un arbre ou la logique de composition d'une symphonie. La science n'est plus compartimentale. Elle est une." nous dit Marc Halévy^[Marc Halévy, *Un univers complexe*]. 
   
@@ -217,7 +217,7 @@ En cela il s'inspire fortement de Edgar Morin qui ajoute :
 
 >"C'est évidemment toute la structure du système de pensée qui se trouve bouleversée, transformée, c'est toute une énorme superstructure d'idées qui s'effondre. Voilà à quoi il faut s'apprêter." ^[Edgar Morin, *Introduction à la pensée complexe*]
 
-Non seulement on sait désormais qu'aucun raisonnement n'est valide sans émotion. On doit aussi apprendre à faire confiance à nos émotions et apprendre à abandonner la précision inhumaine de cet arithmétique qui ne correspond pas à notre réalité : nous vivons dans des contextes systémiques. Arrêtons le "mécanisisme", le rationalisme. Il faut briser ces barrières artificielles. 
+Non seulement on sait désormais qu'aucun raisonnement n'est valide sans émotion, mais il faut aussi apprendre à faire confiance à nos émotions et à abandonner la précision inhumaine de cet arithmétique qui ne correspond pas à notre réalité : nous vivons dans des contextes systémiques. Arrêtons le "mécanisisme", le rationalisme. Il faut briser ces barrières artificielles. 
 
 ### Le singe enivré
 
@@ -243,14 +243,14 @@ Ainsi alors tu me dis, horrifié, qu'il n'est plus possible d'avoir des indicate
 
 Et les indicateurs seront surtout des choses achevées, abouties, concrètes. Combien de ventes ? Cette partie qui marche « là tu vois ! », cette grotte que l'on atteint « oui on y est ». 
 
-finalement, les feuilles excel cela ne marche pas ! ^[La seule chose dont je me rappelle concernant l'opuscule de Henrik Kniberg *Scrum & Xp in the trenches*, c'est la phrase : "excel sucks"])
+Finalement, les feuilles excel cela ne marche pas ! ^[La seule chose dont je me rappelle concernant l'opuscule de Henrik Kniberg *Scrum & Xp in the trenches*, c'est la phrase : "excel sucks"])
 
 Comme le disais Marc Halévy^[Marc Halévy, *Conférence pour la ligue des optimistes*, 2013] dans une conférence (je paraphrase) : 
 
->"Pense à tous les grands choix de vie : ta compagne ou ton compagnon, choisir de se marier ou pas, ton métiers, vivre à tel endroit plutôt que tel autre, avoir des enfants ou pas, etc. ont-ils été soupesés avec un calcul froid cartésien ? Non, ils sont le fruit d'un raisonnement et de tes émotions conjointement, et tant mieux. Il nous dit que les grandes décisions de vie sont des décisions intuitives". 
+>"Pense à tous les grands choix de vie : ta compagne ou ton compagnon, choisir de se marier ou pas, ton métier, vivre à tel endroit plutôt que tel autre, avoir des enfants ou pas, etc. ont-ils été soupesés avec un calcul froid cartésien ? Non, ils sont le fruit d'un raisonnement et de tes émotions conjointement, et tant mieux. Les grandes décisions de vie sont des décisions intuitives". 
 
 Et la psychologie évolutionniste nous dit que l'intuition n'est pas du tout une pulsion creuse, mais qui s'emplit de tout ce que l'humanité a été. Aucun raisonnement purement cartésien, nos raisonnements s'appuient nécessairement sur nos émotions. Nos émotions, ce que nous sommes, nous en héritons depuis des millénaires, nous avons été façonnés autant physiquement que psychologiquement, qu'émotionnellement. 
-Il faut donc à nouveau revenir à la phrase clef de Edgar Morin, comprendre que nature et culture sont indissociables. Notre activité et plus encore nos raisonnements sont dictés par notre culture, comprenez notre nature aussi, au regard des milliers d'années que nous avons vécu.
+Il faut donc à nouveau revenir à la phrase clef de Edgar Morin, comprendre que nature et culture sont indissociables. Notre activité et plus encore nos raisonnements sont dictés par notre culture, comprends notre nature aussi, au regard des milliers d'années que nous avons vécu.
 
 Enfin, savoir que nous avons des prédispositions comportementales issues de notre héritage évolutif ne veut pas dire que nous ne pouvons pas avoir de contrôle sur les effets indésirables de ceux-ci dans notre société actuelle. Connaissons nous nous-même et sachons exploiter ou contre-balancer certains phénomènes.
 
