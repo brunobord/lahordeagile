@@ -515,7 +515,7 @@ A été écrit en écoutant :
 
 * Earth -- The Bees Made Honey in the Lion's Skull
 * Frank Zappa -- Roxy & Elsewhere
-* Led Zeppelin -- Celebration Day  
+* Led Zeppelin -- Celebration Day
 * Mississippi John Hurt -- Essential recordings
 * Roscoe Holcomb -- The High lonesome sound
 * Rose Tattoo -- Rock'n Roll outlaw

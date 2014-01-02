@@ -1,6 +1,11 @@
 
-TEXTE BROUILLON pour les curieux, j'essaye d'avoir le final pour avant la fin 2013.
+### Mini livre sur la horde agile.
 
 
-Texte en préparation pour mini mini book sur la horde agile. 
-Feedback welcome. 
+Versions : 
+
+* 2014-01-02 : première "officielle" 
+
+
+
+En savoir plus : http://www.areyouagile.com/2014/01/mini-livre-la-horde-agile/
