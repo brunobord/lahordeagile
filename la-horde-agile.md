@@ -14,11 +14,11 @@ Voici le sujet de mes dernières conférences, en quoi l'*homo sapiens* que nous
 Préambule et Contexte : L'agile
 ===============================
 
-J'appartiens -- enfin je l'espère -- au mouvement de pensée agile. Initialement, et encore aujourd'hui, ce mouvement porte sur l'organisation du travail, le savoir être et le bien-être en entreprise. Il prend sa source dans les équipes de développement informatique américaines, elles mêmes s'inspirant -- en partie -- de la pensée japonaise de l'après guerre (Toyota et le *Lean*, une sorte de façon de penser l'organisation et le travail, voire au delà^[http://en.wikipedia.org/wiki/Lean_manufacturing]).
+J'appartiens -- enfin je l'espère -- au mouvement de pensée agile. Initialement, et encore aujourd'hui, ce mouvement porte sur l'organisation du travail, le savoir-être et le bien-être en entreprise. Il prend sa source dans les équipes de développement informatique américaines, elles mêmes s'inspirant -- en partie -- de la pensée japonaise de l'après guerre (Toyota et le *Lean*, une sorte de façon de penser l'organisation et le travail, voire au delà^[http://en.wikipedia.org/wiki/Lean_manufacturing]).
 
 Si je devais te résumer l'agile en deux points, je dirais ceci.
  
-* Premier point, l'agile acte de la complexité du monde contemporain et y répond en proposant une responsabilisation de tous les acteurs. La responsabilisation entraînant vraisemblablement une motivation et un bien être, l'organisation et la société ne s'en porteront que mieux. C'est ce que j'appellerai les temps complexes (voir plus bas). 
+* Premier point, l'agile acte de la complexité du monde contemporain et y répond en proposant une responsabilisation de tous les acteurs. La responsabilisation entraînant vraisemblablement une motivation et un bien-être, l'organisation et la société ne s'en porteront que mieux. C'est ce que j'appellerai les temps complexes (voir plus bas). 
 
 * Plus opérationnel, l'agile pousse à l'optimisation par un compromis constant entre effort et valeur, ainsi qu'une interrogation permanente sur l'amélioration. L'optimisation se situe quelque part entre l'ordre et le chaos, elle n'est ni prédictive, ni mécaniste, mais seulement empirique et adaptative. Comme dans la pensée systémique^[http://fr.wikipedia.org/wiki/Pens%C3%A9e_syst%C3%A9mique] : on ne fait pas de *suboptimisation* (c'est à dire que l'on ne peut pas optimiser une sous-partie, il faut optimiser le tout).
 
