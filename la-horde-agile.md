@@ -567,9 +567,9 @@ Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
 >*Trop de sages femmes, le bébé est mort.*\newline
 -- Proverbe roumain
 
--------------------------------------------------
+\pagebreak 
 
-Me retrouver : 
+### Me retrouver 
 
 * [http://www.areyouagile.com](http://www.areyouagile.com)
 * [http://www.smartview.fr](http://www.smartview.fr)
@@ -577,17 +577,18 @@ Me retrouver :
 
 -------------------------------------------------
 
-Le texte et ses mises à jour : 
+### Le texte et ses mises à jour : 
 
 * [Sur github](https://github.com/pablopernot/lahordeagile)
 
--------------------------------------------------
 
-Je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haiku. 
+Première version "officielle" : version 20140102-1205
+
+
 
 \pagebreak
 
 ![Conférence sur la horde agile, Marseille, 2013](illustrations/pablo.jpg)
 
-*...et non je n'ai rien écrit sur la paleodiet*
+*...et non je n'ai rien écrit sur la paleodiet et je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haiku.*
 
