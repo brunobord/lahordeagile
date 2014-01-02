@@ -326,7 +326,7 @@ On sait que le besoin de dominance, d'imposer une hiérarchie, est un comporteme
 
 D'abord, il faut faire avec...ou pas. C'est le discours de Henri Laborit^[Henry Laborit, *La nouvelle grille*] : savoir qui nous sommes, pour mieux comprendre et agir. Et ainsi comprendre ce besoin inextinguible de compétition. Le discours est repris par Dominique Dupagne^[Dominique Dupagne, *La revanche du rameur*], qui reprend une théorie actuelle que la compétition démarre avec le niveau des gènes. Donc on peut commencer par se dire : tout n'est pas bon à reprendre, à évoquer. Comment distinguer le bon grain de l'ivraie, je n'ai pas de recette, je fais appel à ton intelligence. C'est aussi potentiellement un indicateur de l'effort qui va devoir être réalisé pour aller contre-culture, contre-nature^[C'est une chose que la psychologie évolutionniste indique : nous ne sommes plus adaptés au monde qui nous entoure (faut-il réadapter le monde plutôt que de chercher à nous adapter...peut-être?)]. 
 
-Cependant concernant la hiérarchie, la dominance, la compétition en contre point à la collaboration et la coopération il n'est pas aussi certain qu'elles soient si ancrée en nous. Nous parlions de l'importance de la chasse, c'est l'un des rares moments chez les espèces animales (et donc on peut imaginer chez l'homme) où la hiérarchie disparaît, s'efface pour la collaboration.
+Cependant concernant la hiérarchie, la dominance, la compétition en contre point à la collaboration et la coopération il n'est pas aussi certain qu'elles soient si ancrées en nous. Nous parlions de l'importance de la chasse, c'est l'un des rares moments chez les espèces animales (et donc on peut imaginer chez l'homme) où la hiérarchie disparaît, s'efface pour la collaboration.
  
 Et puis une autre surprise, confronté à ce problème, et creusant certaines sources je m'aperçois que cette lecture entre compétition et coopération est un sujet de débats au sein de la communauté scientifique. Que aujourd'hui bien des anthropologues et autres chercheurs s'intéressant à la question sont d'accord pour dire que la coopération a longtemps primée dans l'évolution de l'humanité sur la compétition qui n'est que bien plus récente.
  
@@ -347,7 +347,7 @@ Romantisme désuet ?
 
 Bon voilà où me mène mes réflexions sur notre culture, notre nature, et l'implication de tout cet héritage sur nos métiers actuels. Et puis soudain au détour d'une lecture (je ne sais plus laquelle), patatras, quelque chose du genre :  « cette capacité à faire appel au bon sauvage, pour rappeler un certain bon sens, pour conspuer le monde moderne est assez classique dans l'histoire de l'humanité, comme ce fut le cas avec Rousseau lors des Lumières, etc. ». 
 
-Ai-je sombrer dans un romantisme désuet vain et classique de la pensée humaine en faisant appel au bon sauvage du fait que j'aurais du mal à retrouver mes repères dans notre monde moderne ? Est-ce que à l'instar de mon beau-père (oh bon sang...) j'ai ressorti le fameux : « c'était mieux avant  » ? 
+Ai-je sombré dans un romantisme désuet^[Karine -- en relisant -- "le romantisme n'est jamais désuet...", message personnel je suppose.] vain et classique de la pensée humaine en faisant appel au bon sauvage du fait que j'aurais du mal à retrouver mes repères dans notre monde moderne ? Est-ce que, à l'instar de mon beau-père (oh bon sang...), j'ai ressorti le fameux : « c'était mieux avant  » ? 
 
 Est-ce que c'est juste idiot d’envisager d’introduire de nos jours la notion de horde ? Même la psychologie évolutionniste nous indique que l'un des problèmes de l'homme actuel c'est souvent la non-adéquation de ce qu'il a été avec le monde moderne. Pourquoi vouloir y revenir ? Et ne pas chercher à progresser ? Conservatisme ?
 
@@ -374,13 +374,13 @@ Ouverture
 Spirale dynamique
 ------------------
 
-Encore un biologiste, Clare Graves, à l'origine de la Spirale Dynamique^[Fabien & Patricia Chabreuil, *La spirale dynamique*. Merci à Claude Emond de m'avoir mis sur la voie !], c'est bon signe.  La spirale dynamique nous propose un outil pour lire l'évolution du monde, des sociétés et des mentalités, de la culture en quelque sorte, une description de la maturité des civilisations pourrait-on presque dire. 
+Encore un biologiste, Clare Graves, à l'origine de la Spirale Dynamique^[Fabien & Patricia Chabreuil, *La spirale dynamique*. Merci à Claude Emond de m'avoir mis sur la voie !], c'est bon signe.  La spirale dynamique propose un outil pour lire l'évolution du monde, des sociétés et des mentalités, de la culture en quelque sorte, une description de la maturité des civilisations pourrait-on presque dire. 
 
 La spirale dynamique nous dit que notre action est portée par notre vision du monde , laquelle est issue de principes, de croyances, de valeurs^[Jacques Ferber, slides : *Spirale dynamique*] ;  bref de notre culture. Elle redit ce que je m'efforce à comprendre : notre culture est notre nature, notre nature est notre culture, nos actes émanent de notre culture/nature. Ces visions du monde, cette culture, résultent également des conditions de vie auxquelles nous sommes confrontés. Et le monde est redevenu complexe ces dernières années. 
 
 Ces visions du monde se transmettent, comme la culture se transmet. 
 
-Les conditions de vie provoquent des formes de pensées, qui elles-mêmes génèrent des pratiques qui elles même permettent de faire évoluer les conditions de vie qui provoquent de nouvelles formes de pensée, etc. Voici notre spirale qui prend forme. C'est très important c'est exactement la problématique des "transitions" ou "adoptions" agiles : on parle de culture mais on n'atteint souvent la culture qu'au travers de pratiques, mais les pratiques ne sont rien sans la culture, et l'appropriation de la culture fait évoluer ces pratiques, qui elles-mêmes... 
+Les conditions de vie provoquent des formes de pensée, qui elles-mêmes génèrent des pratiques qui elles même permettent de faire évoluer les conditions de vie qui provoquent de nouvelles formes de pensée, etc. Voici notre spirale qui prend forme. C'est très important c'est exactement la problématique des "transitions" ou "adoptions" agiles : on parle de culture mais on n'atteint souvent la culture qu'au travers de pratiques, mais les pratiques ne sont rien sans la culture, et l'appropriation de la culture fait évoluer ces pratiques, qui elles-mêmes... 
 
 En invoquant la horde agile, et la complexité du monde, je ne dis pas autre chose : le monde est re-connu comme complexe, re-devenu complexe, les murs de nos cités sont tombés, nos conditions de vie (et donc nos conditions de travail, les conditions de réussite de nos entreprises) ont changées, cela provoque donc une nouvelle forme de pensée : le retour à la horde agile. Voilà, ce retour pourrait paraître peu glorieux, ce retour aux errements de la horde ? C'est là que la spirale et grille de lecture proposées par Clares Graves viennent à mon secours. 
 
@@ -400,27 +400,27 @@ Pour palier à la dérive bureaucratique ou autre (inquisition de l'église ?^[E
 
 Voilà les cinq premiers niveaux, on les retrouve un peu partout sur la planète à différents endroits. Les sociétés et organisations auxquelles je suis parfois confrontées oscillent entre ces différents niveaux, et en période de crise il existe la possibilité qu'elles s'effondrent sur plusieurs niveaux. 
 
-On observe aussi de plus en plus en différents endroits, et de plus en plus souvent, un sixième niveau. Quand une frustration résulte de cette rationalisation à l'extrême, de cette absence d'émotion. Quand vient une frustration liée au cartésianisme à outrance surgit et que l'on découvre ses limites. On franchit ce niveau, celui de l'empathie, du communautaire, celui *relativiste*, celui du ressenti. On se retrouve avec le *we are great* du livre^[Dave Logan, *Tribal Leadership*] évoqué précédemment. (On dira que c'est le niveau vert). 
+On observe aussi de plus en plus en différents endroits, et de plus en plus souvent, un sixième niveau. Quand une frustration résulte de cette rationalisation à l'extrême, de cette absence d'émotion. Quand vient une frustration liée au cartésianisme à outrance surgit et que l'on découvre ses limites. On franchit ce niveau, celui de l'empathie, du communautaire, celui du relativisme, celui du ressenti. On se retrouve avec le *we are great* du livre^[Dave Logan, *Tribal Leadership*] évoqué précédemment. (On dira que c'est le niveau vert). 
 
-Vous observerez dans cette spirale (mouvement ascendant des niveaux, avec l'image quelque peu naïve de l'ADN) : que l'on bascule d'un niveau de groupe (tribal, du parti, de la croyance, de la communauté de l'ouverture aux autres) à un niveau individuel (celui de la force brut, de l'affirmation du soi rationnel). 
+Vous observerez dans cette spirale (mouvement ascendant des niveaux, avec l'image quelque peu naïve de l'ADN) : que l'on bascule d'un niveau de groupe (tribal, du parti, de la croyance, de la communauté de l'ouverture aux autres) à un niveau individuel (celui de la force brute, de l'affirmation du soi rationnel). 
 
 Dans mon métier d'agent provocateur (de convergences, de changements, d'idées, de …) j'aborde difficilement les organisations de niveaux bleus , elles doivent en plus nécessairement transiter vers un niveau où elles permettent l'affirmation de soi au dépens de la structure aveugle et procédurière avant d'atteindre le niveau de collaboration qui est (à mon avis) celui de l'*agile* (le vert).
 
-Au delà de ce dernier niveau, que l'on observe dans le monde actuel, Clares Graves avait anticipé deux niveaux supérieurs (l'inspiration probable de *Life is great* de Tribal Leadership par Dave Logan). Le niveau « jaune », le septième, celui où l'on va au delà de la collaboration communautaire, spirituelle, pour appréhender la vie comme un système dynamique complexe, avec une volonté d'amélioration continue non narcissique. 
+Au delà de ce dernier niveau, que l'on observe dans le monde actuel, Clares Graves avait anticipé deux niveaux supérieurs (l'inspiration probable de *Life is great* de *Tribal Leadership* par Dave Logan). Le niveau « jaune », le septième, celui où l'on va au delà de la collaboration communautaire, spirituelle, pour appréhender la vie comme un système dynamique complexe, avec une volonté d'amélioration continue non narcissique. 
 
-Enfin un huitième niveau, holarchique et intégral : la vie est un tout et chacun en constitue une partie, le premier niveau ou l'on dépasse le moi^[La fin de l'ego si cher à Corine Sombrun, *Journal d'une apprentie chamane* ](et où même l'aspect communautaire disparaît pour le tout). Bon là on va virer guru *new age* et manger des *space cakes* mais pourquoi pas (c'est juste que je ne dois pas encore être assez mature). 
+Enfin un huitième niveau, holarchique et intégral : la vie est un tout et chacun en constitue une partie, le premier niveau où l'on dépasse le moi^[La fin de l'ego si cher à Corine Sombrun, *Journal d'une apprentie chamane* ](et où même l'aspect communautaire disparaît pour le tout). Bon là on va virer guru *new age* et manger des *space cakes* mais pourquoi pas (c'est juste que je ne dois pas encore être assez mature). 
 
 Cette spirale n'est qu'une grille de lecture qui donne un sens. Elle répond à mon interrogation sur la validité de la horde. Elle l'intègre dans une vision plus générale à laquelle je souscris. Ce sixième niveau de collaboration accrue c'est ce niveau vers lequel nous devons tendre. C'est la suite logique de l'évolution de notre horde, et il est conforme à notre nature^[Ces niveaux 6, voire 7 ou 8, c'est aussi l'homme péninsulaire de Edgar Morin. Cela serait le stade suivant, ou plutôt s'il y a un stade suivant (si on ne s'auto-détruit pas avant), il prendra cette forme.]. C'est aussi une destinée logique -- la coopération -- liée à la complexité du monde.
 
 L'agile apparaît ainsi comme la pensée moderne par excellence. En prônant l'auto-organisation et la collaboration il met en œuvre cet homme moderne, cet homme nouveau. On sent bien autour de nous que les autres modèles de la Spirale ont périclité : le désenchantement (du monde économique) du niveau orange, l'obscurantisme ou la bureaucratie du niveau précédent (le niveau bleu).
 
-Agile étape suivante de notre nature et de notre culture ? Bon là comme on dit c'est « tu délires pablo, tu prends tes rêves pour des réalités ». Je dis juste : nous vivons une époque formidable : Nous avons manifestement évolué et tout porte à croire, si l'on adhère à la spirale dynamique, ce qui est mon cas que nous entrons dans une ère de collaboration. La nature, la terre, tout indique que cette ère différente est presque obligatoire.
+Agile, étape suivante de notre nature et de notre culture ? Bon là comme on dit c'est « tu délires pablo, tu prends tes rêves pour des réalités ». Je dis juste : nous vivons une époque formidable : nous avons manifestement évolué et tout porte à croire, si l'on adhère à la spirale dynamique, ce qui est mon cas, que nous entrons dans une ère de collaboration. La nature, la terre, tout indique que cette ère différente est presque obligatoire.
 
 Les aspects philanthropiques, humanistes, proposés par l'agile par le biais de la collaboration, de la responsabilisation, de l'auto-organisation, et bien, très cyniquement et ironiquement, aujourd'hui c'est bon pour le business, c'est bon pour la performance. Quelque soit votre *performance* : pour une entreprise c'est généralement le cash, pour une ONG c'est peut-être le nombre de sacs de riz qu'elle est en mesure de distribuer dans un laps de temps très court. 
 
 Notre culture, notre nature, sont faites pour évoluer dans un monde complexe, incertains, avec des pensées parfois désordonnées. L'agile, la culture de l'agile, c'est l'acceptation de cela. Et -- cerise sur le gâteau -- c'est aujourd'hui bon pour le business. Nous entrons dans cette ère. 
 
-Autre regard : J'évoquais plus tôt auparavant un parallèle avec l'évolutionnisme darwinien (et lamarckien). Si l'on se réfère à cette spirale dynamique, qui aboutit à l'holacratie en passant par la collaboration, on colle encore plus aux dernières théories concernant le sujet de l'évolution : 
+Autre regard : j'évoquais plus tôt auparavant un parallèle avec l'évolutionnisme darwinien (et lamarckien). Si l'on se réfère à cette spirale dynamique, qui aboutit à l'holacratie en passant par la collaboration, on colle encore plus aux dernières théories concernant le sujet de l'évolution : 
 
 > « la position néo-darwinienne due être dépassée dès lors que l'on observa que la sélection naturelle à la Darwin n'était pas -- et de loin -- le mécanisme régulateur dominant dans les éco-systèmes qui pratique aussi et d'abord une autorégulation par la symbiose, la commensalité et le mutualisme (donc des mécanismes collaboratifs et non-conflictuels). Depuis des approches holistiques ont fait florès notamment au nom du principe de Mach selon lequel tout ce qui existe n'existe que si et parce que tout le reste existe » rappelle Marc Halévy^[Marc Halévy, *Un univers complexe*]. 
 
@@ -438,7 +438,9 @@ Et puis il observe dans la plupart des grandes civilisations de grands changemen
 
 On passerait selon lui (et j'aime à le croire) d'une économie de masses à une économie de niches, d'une économie de volumes à une économie de marges, d'une économique *capitalistique* à une économie *humanistique*, d'une économie de la productivité à celle de la créativité, etc.
 
-C'est le moment du grand croisement. Nous serions à l'aube d'une nouvelle civilisation^[C'est aussi l'intuition de Jean-François Zobrist dans cette belle conférence.http://www.youtube.com/watch?v=XCHUhyu9Tt0&html5=1]. 
+C'est le moment du grand croisement. Nous serions à l'aube d'une nouvelle civilisation^[C'est aussi l'intuition de Jean-François Zobrist dans cette belle conférence.http://www.youtube.com/watch?v=XCHUhyu9Tt0]. 
+
+\pagebreak 
 
 Deuxième conclusion
 ----------------------
@@ -451,14 +453,14 @@ Et donc, la crise en cours c'est juste le basculement vers ce monde différent o
 
 Une contradiction chère à la complexité : Évoluons en restant ce que nous sommes. 
 
-*...et non je n'ai rien écrit sur le paleodiet*
+
 
 \pagebreak 
 
 Bibliographie
 ==============
 
-par ordre alphabétique
+Par ordre alphabétique
 
 Henri Atlan, *Entre le cristal et la fumée*
 
@@ -511,22 +513,24 @@ Musique
 
 A été écrit en écoutant :
 
-* Earth - The Bees Made Honey in the Lion's Skull
-* Mississippi John Hurt - Essential recordings
-* Frank Zappa – Roxy & Elsewhere
-* Rose Tattoo – Rock'n Roll outlaw
-* Roscoe Holcomb – The high lonesome sound
+* Earth -- The Bees Made Honey in the Lion's Skull
+* Frank Zappa -- Roxy & Elsewhere
+* Led Zeppelin -- Celebration Day  
+* Mississippi John Hurt -- Essential recordings
+* Roscoe Holcomb -- The High lonesome sound
+* Rose Tattoo -- Rock'n Roll outlaw
 
-
-\pagebreak
 
 Mes relecteurs
 ==============
 
 Merci à eux. 
 
-* Karine Servant (ma femme) & Micotte Pernot (ma mère)
-* Bruno Bord, David Larlet & Christophe Monnier
+* Karine Servant Pernot (ma femme)
+* Micotte Pernot (ma mère)
+* Bruno Bord 
+* David Larlet 
+* Christophe Monnier
 
 Et merci aux conseils du pro (Éditions Praxeo) : Alexis Beuve. 
 
@@ -569,7 +573,7 @@ Me retrouver :
 
 * [http://www.areyouagile.com](http://www.areyouagile.com)
 * [http://www.smartview.fr](http://www.smartview.fr)
-* [@pablopernot (twitter)](http://twitter.com/#!/pablopernot)
+* [@pablopernot(twitter)](http://twitter.com/#!/pablopernot)
 
 -------------------------------------------------
 
@@ -585,6 +589,5 @@ Je sais que « Qui ne transitionne pas se fossilise » n'est **pas** un haiku.
 
 ![Conférence sur la horde agile, Marseille, 2013](illustrations/pablo.jpg)
 
-\pagebreak
+*...et non je n'ai rien écrit sur la paleodiet*
 
-*Histoire d'avoir 42 pages...*
