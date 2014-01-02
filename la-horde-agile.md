@@ -14,7 +14,7 @@ Voici le sujet de mes dernières conférences, en quoi l'*homo sapiens* que nous
 Préambule et Contexte : L'agile
 ===============================
 
-J'appartiens -- enfin je l'espère -- au mouvement de pensée agile. Initialement, et encore aujourd'hui, ce mouvement porte sur l'organisation du travail, le savoir être et le bien-être en entreprise. Il prend sa source dans les équipes de développement informatiques américaines, elles mêmes s'inspirant -- en partie -- de la pensée japonaise de l'après guerre (Toyota et le *Lean*, une sorte de façon de penser l'organisation et le travail, voire au delà^[http://en.wikipedia.org/wiki/Lean_manufacturing]).
+J'appartiens -- enfin je l'espère -- au mouvement de pensée agile. Initialement, et encore aujourd'hui, ce mouvement porte sur l'organisation du travail, le savoir être et le bien-être en entreprise. Il prend sa source dans les équipes de développement informatique américaines, elles mêmes s'inspirant -- en partie -- de la pensée japonaise de l'après guerre (Toyota et le *Lean*, une sorte de façon de penser l'organisation et le travail, voire au delà^[http://en.wikipedia.org/wiki/Lean_manufacturing]).
 
 Si je devais te résumer l'agile en deux points, je dirais ceci.
  
