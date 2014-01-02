@@ -582,7 +582,7 @@ Pour mieux me connaitre, jetez un dé à six faces, et piochez la citation :
 * [Sur github](https://github.com/pablopernot/lahordeagile)
 
 
-Première version "officielle" : version 20140102-1205
+Première version "officielle" : 2 janvier 2014 (20140102)
 
 
 
